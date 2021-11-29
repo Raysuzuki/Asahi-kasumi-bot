@@ -22,3 +22,27 @@
 <p align="center">
   <a href="https://open.spotify.com/track/0Nn9gfz60CyzqnFXiAphMs?si=ABB8cDGaQUujA2r4jnl0Dw" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p> 
+
+### WHATSAPP👑
+<p align="center">
+  <a href="https://wa.me/62887433094409?text=Assalamu'alaikum"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+
+### CARA INSTALL TERUS🖥
+
+```
+> pkg install update && pkg install upgrade
+> pkg install mc
+> pkg install nodejs
+> pkg install ffmpeg
+> pkg install liwebp
+> pkg install imagemagick
+> termux-setup-storage
+> cd /sdcard
+> cp -r (namafile) /$HOME
+> cd
+> cd (namafile) 
+> bash install.sh / npm install / npm i (silakan pilih) 
+> npm start
+
+```
+
