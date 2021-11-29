@@ -45,4 +45,12 @@
 > npm start
 
 ```
+### Thank to❤
 
+```
+FixMood BOT (sc ori) 
+Nino 
+Ray kun (edit) 
+Sasha Chan (masta) 
+
+```
