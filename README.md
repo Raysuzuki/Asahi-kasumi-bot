@@ -14,7 +14,7 @@
 - 👼 My name is Iryadi
 - 🗣️ I am 22 years old 
 - 🔭 I am famale
-- Saya suka anime hibiki suze
+- 🥳 Saya suka anime hibiki suze
 
 </p> 
 
