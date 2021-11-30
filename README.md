@@ -52,6 +52,6 @@
 FixMood BOT (sc ori) 
 Nino 
 Ray kun (edit) 
-Sasha Chan (masta) 
+Sasha Chan (editz) 
 
 ```
