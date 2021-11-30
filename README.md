@@ -49,6 +49,18 @@
 ### Thank to❤
 
 ```
-──❲ THANKS TO ❳ ▢ NINO WANGY ▢ MARCELCYAN ▢ FIXMOOD XD ▢ MAIL BOT ▢ ALL CREATOR BOT ╰──❲ FIXMOOD XD ❳ ╭─❒ 「 Apk 」 ├ ⎔ : ZArchiver ├ ⎔ : QuickEdit ├ ⎔ : Mt Manager ├ ⎔ : Termux └──────────────────❒
+FixMood BOT (sc ori) 
+Nino
+Ray Ganz"
+Sasha Chan
 
 ```
+### BAHAN NYA 🍹
+
+```
+ZArchiver
+QuickEdit
+Termux
+
+```
+
