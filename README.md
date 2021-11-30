@@ -1,8 +1,11 @@
 # Asahi-kasumi-bot
 <h1 align="center">こんにちは <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95025437/143948668-ce5e8c3b-93ef-4766-bbaa-f78d3db7c8b6.jpg" />
+  <img src="https://user-images.githubusercontent.com/95025437/144053905-bf1af8d5-79ac-4f42-82ad-990cd73e9d34.jpeg" />
 </p> 
+
+<p align="center">
+# Foxteam
 
 <p align="center"> 
 
