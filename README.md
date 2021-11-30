@@ -51,7 +51,7 @@
 ```
 FixMood BOT (sc ori) 
 Nino
-Ray Ganz"
+Ray Ganz
 Sasha Chan
 
 ```
