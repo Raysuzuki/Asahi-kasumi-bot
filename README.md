@@ -49,9 +49,6 @@
 ### Thank to❤
 
 ```
-FixMood BOT (sc ori) 
-Nino 
-Ray kun (edit) 
-Sasha Chan (editz) 
+──❲ THANKS TO ❳ ▢ NINO WANGY ▢ MARCELCYAN ▢ FIXMOOD XD ▢ MAIL BOT ▢ ALL CREATOR BOT ╰──❲ FIXMOOD XD ❳ ╭─❒ 「 Apk 」 ├ ⎔ : ZArchiver ├ ⎔ : QuickEdit ├ ⎔ : Mt Manager ├ ⎔ : Termux └──────────────────❒
 
 ```
