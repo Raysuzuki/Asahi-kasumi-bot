@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/95025437/144053905-bf1af8d5-79ac-4f42-82ad-990cd73e9d34.jpeg" />
 </p> 
 
-<p align="center">
+
 ### Foxteam
 
 <p align="center"> 
