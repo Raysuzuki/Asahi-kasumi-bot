@@ -37,7 +37,7 @@
 ### CARA INSTALL termux🔮
 
 ```
-> pkg install update && pkg install upgrade
+> pkg update && pkg install upgrade
 > pkg install mc
 > pkg install nodejs
 > pkg install ffmpeg
