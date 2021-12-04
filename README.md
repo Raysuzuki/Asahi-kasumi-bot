@@ -63,6 +63,10 @@
 > cd (namafile) 
 > npm start
 ```
+### SC media ⬇️
+```
+https://www.mediafire.com/file/8in08qgviyw3qud/Asahi+Kasumi+Bot.7z/file
+```
 ### Thank to❤
 
 ```
