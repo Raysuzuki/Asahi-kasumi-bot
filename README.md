@@ -40,21 +40,21 @@
 
 
 
-### CARA INSTALL termux🔮
+### How Install 👩‍💻
 ```
-• pkg update && pkg install upgrade
-• pkg install mc
-• pkg install nodejs
-• pkg install ffmpeg
-• pkg install liwebp
-• pkg install imagemagick
-• termux-setup-storage
-• cd /sdcard
-• cp -r (namafile) /$HOME
-• cd
-• cd (namafile) 
-• npm i
-• npm start
+> pkg update && pkg install upgrade
+> pkg install mc
+> pkg install nodejs
+> pkg install ffmpeg
+> pkg install liwebp
+> pkg install imagemagick
+> termux-setup-storage
+> cd /sdcard
+> cp -r (namafile) /$HOME
+> cd
+> cd (namafile) 
+> npm i
+> npm start
 ```
 ### AKTIFKAN TERMUX🤔
 ```
