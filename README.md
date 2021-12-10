@@ -53,7 +53,6 @@
 > cp -r (namafile) /$HOME
 > cd
 > cd (namafile) 
-> npm i
 > npm start
 ```
 ### AKTIFKAN TERMUX🤔
